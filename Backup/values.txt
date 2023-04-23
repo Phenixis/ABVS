@@ -1,0 +1,8 @@
+nb_abv:0
+nb_sub_abv:0
+*** Usage stats: 
+use_abv:0
+use_mot_complet:0
+sum:0
+average_use_abv:0%
+average_use_non_abv:0%
