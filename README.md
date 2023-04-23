@@ -1,4 +1,3 @@
-ABVS est un programme d'abréviation simple à utiliser, entièrement en local et sans interface. 
 # Bienvenue dans ABVS
 ## Comment démarrer ABVS
 **Ne démarrez par ABVS maintenant, allez à la section [Démarrer ABVS pour la première fois](#Démarrer-ABVS-pour-la-première-fois)**
