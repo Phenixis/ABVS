@@ -35,7 +35,6 @@ class Abbreviation:
         self.is_suffix = True if value else False
 
     def start_abv(self):
-        raise_an_error()
         if not self.started:
             self.started = True
             add_abbreviation0(self.abv, self.mot_complet, self.is_suffix, sub_abv=self.is_sub_abv)
